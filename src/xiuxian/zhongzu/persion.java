@@ -5,6 +5,7 @@ public class persion {
 		System.out.println("道门仙法");
 		System.out.println("太清仙法");
 		System.out.println("玉清仙法");
+		System.out.println("上清仙法");
 		
 		
 	}
